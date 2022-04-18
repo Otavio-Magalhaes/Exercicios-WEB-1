@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+/*1º questão*/
+ol{margin-left: 35%;
+}
+
+
+/*tabela*/
+.tabela_1{
+    width: 40%;
+
+}
+
+
+.centro_tabela{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/*Formulario*/
+.central{
+    margin-left: 25%;
+    margin-right: 35%;
+}
+.tabela_2{
+    margin-top: -12%;
+}
